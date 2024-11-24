@@ -1,4 +1,4 @@
-# Grape Leaf Disease Classifier
+# Grape Leaf Disease Identification using CNN and HBA Algorithm
 
 A web application that predicts whether a grape leaf is healthy or infected using the [CLIP model](https://github.com/openai/CLIP) from OpenAI. The application is built using Flask for both frontend and backend.
 
